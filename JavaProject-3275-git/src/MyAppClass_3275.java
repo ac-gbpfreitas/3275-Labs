@@ -7,6 +7,10 @@
  *
  */
 public class MyAppClass_3275 {
+	/*
+	 * Just adding new comments
+	 * 
+	 * */
 
 	/**
 	 * @param args
